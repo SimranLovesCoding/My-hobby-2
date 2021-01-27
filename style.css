@@ -1,0 +1,76 @@
+p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: linear-gradient(to right bottom, #c758ff, #e843dc, #fa34b8, #ff3297, #ff3d79, #ff4579, #ff4d79, #ff5479, #ff5893, #ff60af, #ff6bca, #ff79e6);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    width: 500px;
+    border-width: 40px;
+    border-style: double;
+    color: whitesmoke;
+}
+
+p:hover {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.menu {
+    width: 100%;
+    position: fixed;
+    background-color: darksalmon;
+    color: aliceblue;
+    top: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+
+.list {
+    display: inline;
+    margin-right: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#contact h3 {
+    display: inline;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+#myfavsongs {
+    width: 40%;
+}
+
+.li2 {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+#menu a:hover {
+    font-size: 35px;
+    color: aqua;
+}
+
+#myteach {
+    margin-top: 200px;
+}
